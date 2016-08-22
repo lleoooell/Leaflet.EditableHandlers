@@ -1,0 +1,22 @@
+{
+  "name": "leafletcircleedit",
+  "version": "1.0.0",
+  "description": "This is a project which will include different tools to edit/play with geometries in Leaflet. Currenlty I added support for:",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lleoooell@github.com/lleoooell/Leaflet.EditableHandlers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lleoooell/Leaflet.EditableHandlers/issues"
+  },
+  "homepage": "https://github.com/lleoooell/Leaflet.EditableHandlers#readme"
+}
