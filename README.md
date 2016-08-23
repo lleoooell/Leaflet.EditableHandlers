@@ -1,3 +1,5 @@
+NOTE : this is a fork from https://github.com/kartena/Leaflet.EditableHandlers where i add a few modifications for a personal project, including touch support for leaflet draw (https://github.com/michaelguild13/Leaflet.draw)
+
 # EditableHandlers #
 
 This is a project which will include different tools to edit/play with geometries in Leaflet.
